@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShieldItem
   shieldDuration: 5
-  lifeTime: 10
+  lifeTime: 5
 --- !u!54 &-6792642654328386864
 Rigidbody:
   m_ObjectHideFlags: 0

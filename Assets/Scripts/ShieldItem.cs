@@ -4,7 +4,7 @@ public class ShieldItem : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public float shieldDuration = 5f; // 쉴드 지속 시간
-    public float lifeTime = 10f; // 쉴드아이템이 존재하는 시간
+    public float lifeTime = 5f; // 쉴드아이템이 존재하는 시간
     private Renderer itemRenderer;
 
     void Start()
